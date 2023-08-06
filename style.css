@@ -390,3 +390,9 @@ section.clearfix.collection {
   top: -43px;
   height: 18px;
 }
+.day-pack-slider {
+  z-index: -1;
+  position: relative;
+  margin-top: -140px;
+  height: 450px;
+}
