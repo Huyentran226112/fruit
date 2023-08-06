@@ -136,7 +136,7 @@ section.clearfix.collection {
 }
 
 .col-12.bg-header {
-  background-image: url(/image/home-slider-3.png);
+  background-image: url(./image/home-slider-3.png);
   background-size: 1045px 455px;
   background-repeat: no-repeat;
   background-position: top right -25px;
