@@ -7,6 +7,9 @@
   display: flex;
   align-items: center;
 }
+/* body {
+  overflow-x: hidden;
+} */
 .day-pack__title {
   margin-top: 40px;
   font-size: 40px;
